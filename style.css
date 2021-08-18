@@ -1,0 +1,38 @@
+
+    h1{
+        color:rgba(7, 9, 29, 0.986);
+       text-align:center;
+    }
+    
+
+.header{
+    
+    background-color: rgb(255, 234, 0);
+    display:flex;
+    justify-content:space-between;
+ 
+}
+
+.grid{
+ display:flex;
+ flex-wrap:wrap;
+ justify-content:space-evenly
+}
+
+.footer{
+    display:flex;
+    justify-content:center;
+
+}
+
+p,h2{
+    text-align:center
+}
+
+
+
+body{
+    background-color:#808080;
+}
+
+    
